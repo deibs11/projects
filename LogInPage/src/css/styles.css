@@ -1,0 +1,46 @@
+footer{
+    position: absolute;
+    text-decoration: none;
+    color: gray;
+    text-align:  center;
+    width: 100%;
+    margin-bottom: 20px;
+    padding-bottom: 60px;
+}
+
+ul li{
+    cursor: pointer;
+    margin: 20px 5px;
+    font-size: 12px;
+    display: inline-flex;
+    list-style: none;
+}
+
+select{
+    border: none;
+    color: rgb(115,115,115);
+    cursor: pointer;
+    outline: none;
+    font-size: 12px;
+}
+.fb1{
+    align-content: center;
+    text-decoration: none;
+    color: gray;
+    text-align:  center;
+    width: 100%;
+    margin-bottom: 20px;
+    padding-bottom: 60px;
+}
+
+.fb li{
+    display: flex;
+    cursor: pointer;
+    font-size: 12px;
+    display: inline-flex;
+    list-style: none;
+    text-align: left;
+}
+
+
+
