@@ -93,4 +93,12 @@
 }
 .input-group{
     align-items: center;
+    
+}
+/* Cuerpo p-4 */
+#cuerpo-4{
+    background-color: #745c52;
+}
+#cuerpo-5{
+    background-color: #181413;
 }
