@@ -99,6 +99,18 @@
 #cuerpo-4{
     background-color: #745c52;
 }
+/* Cuerpo p-5 */
 #cuerpo-5{
+    background-color: #181413;
+}
+/* Cuerpo p-6 */
+.accordion-body{
+    background-color: transparent;
+}
+.accordion{
+    border-bottom-color:none !important;
+}
+/* Cuerpo p-7 */
+#cuerpo-7{
     background-color: #181413;
 }
