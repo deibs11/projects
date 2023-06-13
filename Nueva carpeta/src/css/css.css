@@ -114,3 +114,38 @@
 #cuerpo-7{
     background-color: #181413;
 }
+#boton-7{
+    background-color: #C09457;
+    color: #181413;
+    width: 30%;
+}
+#boton-7:hover{
+    background-color: transparent;
+    border: solid 1px #C09457;
+    color: #FFFFFF;
+}
+/* Footer */
+#phone:hover{
+    color: #C09457;
+    cursor: pointer;
+}
+.titulos-f{
+    color: #FFFFFF;
+}
+.titulos-f:hover{
+    text-decoration: underline #C09457;
+}
+#instagram:hover{
+    color: #C09457;
+}
+#whatsapp:hover{
+    color: #C09457;
+}
+#enlace-f{
+    color: white;
+    text-decoration: none;
+}
+#enlace-f:hover{
+    color: #C09457;
+    text-decoration:underline #C09457;
+}
